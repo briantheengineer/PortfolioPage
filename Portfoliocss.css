@@ -1,0 +1,76 @@
+* {
+    font-family: Rowdies, sans-serif;
+    font-weight: 100;
+
+   
+}
+
+div {
+    border: 10px solid bisque;
+    padding:10px;
+    border-radius: 30px;
+    height: 500px;
+}
+
+.box {
+    border:5px solid #ffcdb2;
+    padding: 6px 3px;
+    white-space: nowrap;
+    box-sizing: content-box;
+    width:fit-content;
+    border-radius: 8px;
+    background-color: bisque;
+    
+}
+
+.title {
+    background-image: url(https://media1.giphy.com/media/3o6vXTpomeZEyxufGU/giphy.gif?cid=ecf05e47y1xbgzc818tg2dfo0vdtqnclwbcoyhpn4v234aez&rid=giphy.gif&ct=g);
+    background-color:black;
+    color:whitesmoke;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    align-content: center;
+
+}
+
+.title h1, .title h2 {
+    padding-top:80px;
+}
+
+
+.aboutme h2 {
+    color: #6D6875;
+}
+
+.aboutme {
+    background-color:#B5838D;
+    color: bisque;
+
+}
+
+.projects {
+    background-color:#E5989B;
+    color:#6D6875;
+
+}
+
+.contact {
+    background-color: #ffb4a2;
+    color:#6D6875;
+
+}
+
+body {
+    background-color: bisque;
+}
+
+.icon {
+    max-width: 60px;
+    max-height: 35px;
+    background-color: white;
+    padding:0;
+    border:1px solid white;
+    border-radius: 25px;
+    padding:2px;
+}
